@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Welcome to Devops Class" );
         System.out.println( "This is Durga Prasad" );
+        System.out.println( "This is Surya" );
+        System.out.println( "This is Narendra" );
     }
 }
